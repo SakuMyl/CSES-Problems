@@ -23,4 +23,5 @@ int main() {
     }
     cout << "Average: " << average << endl;
     cout << "Error: " << sqrt(squaredError / (n*(n-1))) << endl;
+    cout << "Git works" << endl;
 }
