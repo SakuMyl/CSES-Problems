@@ -1,2 +1,2 @@
 # CSES-Problems
-These are solutions for some competitive programming problems.
+These are solutions for competitive programming problems and some other exercises.
